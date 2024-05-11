@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jellyabc's GitHub | Languages Over Time](https://stats.quine.sh/Jellyabc/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jellyabc)
+
 <!--
 **Jellyabc/Jellyabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
